@@ -28,7 +28,7 @@
 
 | page | line/note | read | for | comment |
 | :--- | :--- | :--- | :--- | :--- |
-| p.68 | n.18 | the archaic form Mavors | the alleged archaic form Mavors | On *Mars* and *Mavors*, see Nishimura, K. (2017), Nishimura, K.（2017）‘Māvors vis-à-vis Mārs : Linguistic History and Cultural Background’, *Glotta*, 93, 135―153. |
+| p.68 | n.18 | the archaic alleged form Mavors | the archaic form Mavors | On *Mars* and *Mavors*, see Nishimura, K. (2017), Nishimura, K.（2017）‘Māvors vis-à-vis Mārs : Linguistic History and Cultural Background’, *Glotta*, 93, 135―153. |
 
 ## 「イタリア文献学と古典文献学の間――クローチェ，パスクァーリ，バルビの「方法」を巡る問い――」，『天野惠先生退職記念論文集』279-299, 2018年
 
