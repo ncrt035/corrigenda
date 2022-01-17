@@ -1,5 +1,11 @@
 # Addenda et Corrigenda（既刊書籍・論文等への補遺と訂正）
 
+## ‘Retire with Thanks: Lucretius 3.963’ *Classical Quarterly*, 71(2), 895-897, 2021.
+
+| page（頁） | line（行） | read（正） | for（誤） | comment（備考） |
+| :--- | :--- | :--- | :--- | :--- |
+| p.895 | ll.9-10 | a nominative or an adverb | an adverb or a nominative |  |
+
 ## 『詩の中の宇宙――マーニーリウス『アストロノミカ』の世界――』，京都大学学術出版会，2021年
 [出版社サイト](https://www.kyoto-up.or.jp/books/9784814003150.html)
 
