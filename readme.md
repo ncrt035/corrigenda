@@ -4,7 +4,7 @@
 
 | page（頁） | line（行） | read（正） | for（誤） | comment（備考） |
 | :--- | :--- | :--- | :--- | :--- |
-| p.895 | ll.9-10 | a nominative or an adverb | an adverb or a nominative |  |
+| p.895 | ll.9-10 | an adverb or a nominative | a nominative or an adverb |  |
 
 ## 『詩の中の宇宙――マーニーリウス『アストロノミカ』の世界――』，京都大学学術出版会，2021年
 [出版社サイト](https://www.kyoto-up.or.jp/books/9784814003150.html)
